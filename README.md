@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lionel La Rocca</h1>
-<h3 align="center">Computer science student at ULiège</h3>
+### Hi 👋 I'm Lionel La Rocca
+I'm a **Computer science student** at University of Liège, Belgium.
+
 
 <!--
 **LionelLR/LionelLR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
